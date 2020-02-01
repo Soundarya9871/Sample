@@ -6,6 +6,7 @@ public class Push
 	{
 
 		System.out.println("First push");
+		System.out.println("Second push");
 
 	}
 }
